@@ -61,5 +61,4 @@ copyIcon.addEventListener('click', ()=>{
         }, 3000)
     }
 });
-    checkWeather(inputBox.value);
-});
+   
